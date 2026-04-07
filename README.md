@@ -14,11 +14,11 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NamazbekMunduzbaev&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=munduzbaev&theme=tokyonight" alt="GitHub Streak" />
 
 <br/>
 
 ### My Contributions Snake 🐍
-![Snake animation](https://raw.githubusercontent.com/NamazbekMunduzbaev/NamazbekMunduzbaev/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/munduzbaev/munduzbaev/output/github-contribution-grid-snake.svg)
 
 </div>
