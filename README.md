@@ -26,7 +26,8 @@ year: 3rd year — Programming & IT Engineering
 
 - 🚀 Разрабатываю **Skills Swap** — платформу обмена навыками для студентов OshTU  
 - 🎨 Строю личный бренд **AN Studio** — дизайн, разработка, портфолио  
-- 🏆 Номинант **«Лучший студент 2025»** в регионе  
+- 🏆 Номинант **«Лучший студент 2025»** в регионе · Nominee, *Best Student of 2025* (regional)  
+- 🥇 **«Лучший студент тюркских народов 2026»** · *Best Student of Turkic Peoples 2026*  
 - 🌐 Участник студенческой команды **OK Google** и Молодёжного комитета OshTU  
 - 🇩🇪 Изучаю немецкий язык (A2.1)  
 
@@ -101,6 +102,10 @@ year: 3rd year — Programming & IT Engineering
 | [**Key Race**](#) | Межвузовское геймифицированное соревнование | React, TypeScript |
 | [**Blume.room**](#) | E-commerce для ювелирных изделий | PHP, SQLite |
 | [**Touline Cargo**](#) | Telegram-бот для отслеживания грузов из Китая | n8n, Telegram Bot API |
+| [**Health in Hand**](https://github.com/munduzbaev/Health-in-Hand) | Медицинский AI-ассистент и электронная медкарта в телефоне · Medical AI assistant and e-health record mobile app | React, TypeScript, Vite, Capacitor |
+| [**UNIVER PLUS**](#) | Мобильное приложение для студентов OshTU · Mobile app for OshTU students | Flutter |
+| [**A Book**](#) | Приложение для чтения, магазин и сообщество книголюбов · Book reading, shop and community app | React, TypeScript |
+| [**SignBridge**](#) | Распознавание жестового языка в реальном времени на IMU-кольцах · Real-time sign language recognition with IMU smart rings | ESP32, BLE, Android |
 
 ---
 
